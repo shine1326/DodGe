@@ -1,5 +1,8 @@
 # DodGe
 
+#ソフトの実行方法
+>>DodGe > DodGe.exeを開いて実行
+
 #操作方法
 >>左 F　or ←　右: J or →
 
