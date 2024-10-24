@@ -7,7 +7,7 @@
 >>DodGe > DodGe.exeを開いて実行
 
 #操作方法
->>左 F　or ←　右: J or →
+>左 F　or ←　右: J or →
 
 #モード選択 and ランキング
 >>矢印キーで操作
